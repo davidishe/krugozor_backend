@@ -14,8 +14,6 @@ using WebAPI.Controllers;
 using Krugozor.Infrastructure.Specifications;
 using System.Collections.Generic;
 using Core.Models;
-using System.IO;
-using Newtonsoft.Json;
 
 namespace Krugozor.WebAPI.Controllers
 {
@@ -113,30 +111,6 @@ namespace Krugozor.WebAPI.Controllers
       _favourRepo = favourRepo;
     }
 
-    private void WriteDebugLog(string runId, string hypothesisId, string location, string message, object data)
-    {
-      try
-      {
-        var payload = new
-        {
-          sessionId = "ea380a",
-          runId,
-          hypothesisId,
-          location,
-          message,
-          data,
-          timestamp = DateTimeOffset.UtcNow.ToUnixTimeMilliseconds()
-        };
-        File.AppendAllText("/Users/akobiyada/Documents/SpecialProjects/01_Focus_for_developing/58_DAVINCI/.cursor/debug-ea380a.log", JsonConvert.SerializeObject(payload) + Environment.NewLine);
-      }
-      catch
-      {
-        // ignore debug logging failures
-      }
-    }
-
-
-
     /// <summary>
     /// Возвращает список всех инфлюенсеров
     /// </summary>
@@ -146,9 +120,6 @@ namespace Krugozor.WebAPI.Controllers
     [Route("all")]
     public async Task<ActionResult> GetItems()
     {
-      #region agent log
-      WriteDebugLog("pre-fix", "H1", "ItemsController.cs:GetItems", "returning hardcoded items without strapi", new { count = items.Count });
-      #endregion
       return Ok(items);
     }
 
@@ -160,9 +131,6 @@ namespace Krugozor.WebAPI.Controllers
     public async Task<ActionResult> GetItemById([FromRoute] int Id)
     {
       var item = items.Where(x => x.Id == Id).FirstOrDefault();
-      #region agent log
-      WriteDebugLog("pre-fix", "H2", "ItemsController.cs:GetItemById", "returning hardcoded item without strapi", new { id = Id, found = item is not null });
-      #endregion
       return Ok(item);
     }
 

@@ -18,10 +18,3 @@ namespace Krugozor.Core.Models
     public DateTime BornedYear { get; set; }
   }
 }
-
-дзидзария
-рыбаков
-ефимов
-// направление деятельности 
-// boosty and patreon
-// website link

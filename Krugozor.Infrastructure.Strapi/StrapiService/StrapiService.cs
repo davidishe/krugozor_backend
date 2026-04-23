@@ -1,7 +1,6 @@
 using Newtonsoft.Json;
 using RestSharp;
 using Microsoft.Extensions.Configuration;
-using System.IO;
 
 namespace Krugozor.Infrastructure.Strapi
 {
@@ -14,29 +13,6 @@ namespace Krugozor.Infrastructure.Strapi
     {
       _config = config;
     }
-
-    private void WriteDebugLog(string runId, string hypothesisId, string location, string message, object data)
-    {
-      try
-      {
-        var payload = new
-        {
-          sessionId = "ea380a",
-          runId,
-          hypothesisId,
-          location,
-          message,
-          data,
-          timestamp = DateTimeOffset.UtcNow.ToUnixTimeMilliseconds()
-        };
-        File.AppendAllText("/Users/akobiyada/Documents/SpecialProjects/01_Focus_for_developing/58_DAVINCI/.cursor/debug-ea380a.log", JsonConvert.SerializeObject(payload) + Environment.NewLine);
-      }
-      catch
-      {
-        // ignore debug logging failures
-      }
-    }
-
 
     /// <summary>
     /// geting company from strapi via id
@@ -54,17 +30,11 @@ namespace Krugozor.Infrastructure.Strapi
       {
         var result = JsonConvert.DeserializeObject<StrapiProposalContractDto>(response.Content);
         if (result?.Data is not null) return result.Data;
-        #region agent log
-        WriteDebugLog("pre-fix", "H1", "StrapiService.cs:GetCompanyEntity", "deserialized response has null Data", new { id, response.StatusCode, response.ContentLength });
-        #endregion
         return new DataDto();
       }
 
       else
       {
-        #region agent log
-        WriteDebugLog("pre-fix", "H1", "StrapiService.cs:GetCompanyEntity", "response content is null", new { id, response.StatusCode, response.ErrorMessage });
-        #endregion
         return new DataDto();
       }
     }
@@ -111,17 +81,11 @@ namespace Krugozor.Infrastructure.Strapi
       {
         var result = JsonConvert.DeserializeObject<StrapiProposalContractDto>(response.Content);
         if (result?.Data is not null) return result.Data;
-        #region agent log
-        WriteDebugLog("pre-fix", "H2", "StrapiService.cs:GetProposalEntity", "deserialized response has null Data", new { id, response.StatusCode, response.ContentLength });
-        #endregion
         return new DataDto();
       }
 
       else
       {
-        #region agent log
-        WriteDebugLog("pre-fix", "H2", "StrapiService.cs:GetProposalEntity", "response content is null", new { id, response.StatusCode, response.ErrorMessage });
-        #endregion
         return new DataDto();
       }
     }
@@ -240,9 +204,6 @@ namespace Krugozor.Infrastructure.Strapi
       Console.WriteLine("==========================================================================");
       Console.WriteLine("==========================================================================");
       if (response.Content is not null) return response.Content;
-      #region agent log
-      WriteDebugLog("pre-fix", "H3", "StrapiService.cs:AddImageToMediaLibrary", "upload response content is null", new { filePath, response.StatusCode, response.ErrorMessage });
-      #endregion
       return string.Empty;
     }
 

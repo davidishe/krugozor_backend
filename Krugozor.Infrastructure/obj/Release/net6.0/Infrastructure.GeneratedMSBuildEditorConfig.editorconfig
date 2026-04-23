@@ -8,4 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Infrastructure
-build_property.ProjectDir = /Users/akobiyada/Documents/SpecialProjects/30_PROPERTY_CAT/property_cat_backend/PropertyCat.Infrastructure/
+build_property.ProjectDir = /Users/akobiyada/Documents/SpecialProjects/01_Focus_for_developing/58_DAVINCI/krugozor_backend/Krugozor.Infrastructure/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
