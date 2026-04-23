@@ -17,7 +17,6 @@ jobs:
           port: 22
           script: |
             whoami
-
             # спасаем активы
             cp -R /var/apps/backend/krugozor/Assets/ /var/apps/backend/krugozor_assets_backup
 
