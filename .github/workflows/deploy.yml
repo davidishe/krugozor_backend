@@ -18,7 +18,12 @@ jobs:
           script: |
             whoami
             # спасаем активы
-            cp -R /var/apps/backend/krugozor/Assets/ /var/apps/backend/krugozor_assets_backup
+            if [ -d /var/apps/backend/krugozor/Assets ]; then
+              rm -rf /var/apps/backend/krugozor_assets_backup
+              cp -R /var/apps/backend/krugozor/Assets /var/apps/backend/krugozor_assets_backup
+            else
+              echo "Assets backup skipped: source directory does not exist"
+            fi
             cd /root/apps_sources/
             rm -rf /root/apps_sources/krugozor_backend
             rm -rf /var/apps/backend/krugozor_backend
@@ -103,15 +108,25 @@ jobs:
             mkdir -p /var/apps/backend/krugozor/Assets/Pictures
 
             # возвращаем активы
-            cd /var/apps/backend/krugozor_assets_backup/
-            cp -R . /var/apps/backend/krugozor/Assets/ 
-            rm -rf /var/apps/backend/krugozor_assets_backup
+            if [ -d /var/apps/backend/krugozor_assets_backup ]; then
+              cp -R /var/apps/backend/krugozor_assets_backup/. /var/apps/backend/krugozor/Assets/
+              rm -rf /var/apps/backend/krugozor_assets_backup
+            else
+              echo "Assets restore skipped: backup directory does not exist"
+            fi
     
             systemctl enable krugozor.service
             systemctl restart krugozor.service
 
-            cp -R -n CI/api.krugozor.space.conf /etc/nginx/nginx_configs
-            systemctl restart nginx             
+            set +e
+            mkdir -p /etc/nginx/nginx_configs
+            cp -R -f CI/api.krugozor.space.conf /etc/nginx/nginx_configs
+            if nginx -t; then
+              systemctl reload nginx
+            else
+              echo "nginx config test failed; skipping reload"
+            fi
+            set -e
 
 
 

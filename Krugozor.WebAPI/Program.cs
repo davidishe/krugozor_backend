@@ -57,7 +57,7 @@ namespace WebAPI
             .ConfigureWebHostDefaults(webBuilder =>
             {
               webBuilder.UseStartup<Startup>().
-                UseUrls("https://localhost:6014");
+                UseUrls("https://localhost:6070");
             });
   }
 }
