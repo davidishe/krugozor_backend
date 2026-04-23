@@ -47,7 +47,7 @@ jobs:
             cd /root/apps_sources/krugozor_backend/Krugozor.WebAPI/
             mv appsettings.Protected.Production.json appsettings.json
             # sed -i 's/TELEGRAM_TOKEN_PROD/'${{ secrets.TELEGRAM_TOKEN_PROD }}'/' appsettings.json
-            sed -i 's/DATABASE_PASSWORD/'${{ secrets.DATABASE_PASSWORD_PROD }}'/' appsettings.json
+            sed -i 's/DATABASE_PASSWORD/'${{ secrets.DATABASE_PASSWORD }}'/' appsettings.json
             sed -i 's/STRAPI_API_TOKEN/'${{ secrets.STRAPI_API_TOKEN }}'/' appsettings.json
 
             systemctl stop krugozor
