@@ -14,7 +14,8 @@ using WebAPI.Controllers;
 using Krugozor.Infrastructure.Specifications;
 using System.Collections.Generic;
 using Core.Models;
-using Krugozor.Infrastructure.Strapi;
+using System.IO;
+using Newtonsoft.Json;
 
 namespace Krugozor.WebAPI.Controllers
 {
@@ -31,7 +32,6 @@ namespace Krugozor.WebAPI.Controllers
     private readonly IDbRepository<Request> _requestManager;
     private readonly IDbRepository<RequestStatus> _requestStatusRepo;
     private readonly IDbRepository<ProposalProfileStatus> _proposalStatusRepo;
-    private readonly IStrapiService _strapiService;
     private readonly IMapper _mapper;
     private readonly IDbRepository<Favour> _favourDbRepo;
 
@@ -99,7 +99,6 @@ namespace Krugozor.WebAPI.Controllers
       IGenericRepository<ProposalProfile> proposalRepo,
       IGenericRepository<Favour> favourRepo,
       IDbRepository<ProposalProfileStatus> proposalStatusRepo,
-      IStrapiService strapiService,
       IDbRepository<Favour> favourDbRepo,
       IMapper mapper)
     {
@@ -110,9 +109,30 @@ namespace Krugozor.WebAPI.Controllers
       _userManager = userManager;
       _requestStatusRepo = requestStatusRepo;
       _proposalStatusRepo = proposalStatusRepo;
-      _strapiService = strapiService;
       _favourDbRepo = favourDbRepo;
       _favourRepo = favourRepo;
+    }
+
+    private void WriteDebugLog(string runId, string hypothesisId, string location, string message, object data)
+    {
+      try
+      {
+        var payload = new
+        {
+          sessionId = "ea380a",
+          runId,
+          hypothesisId,
+          location,
+          message,
+          data,
+          timestamp = DateTimeOffset.UtcNow.ToUnixTimeMilliseconds()
+        };
+        File.AppendAllText("/Users/akobiyada/Documents/SpecialProjects/01_Focus_for_developing/58_DAVINCI/.cursor/debug-ea380a.log", JsonConvert.SerializeObject(payload) + Environment.NewLine);
+      }
+      catch
+      {
+        // ignore debug logging failures
+      }
     }
 
 
@@ -126,6 +146,9 @@ namespace Krugozor.WebAPI.Controllers
     [Route("all")]
     public async Task<ActionResult> GetItems()
     {
+      #region agent log
+      WriteDebugLog("pre-fix", "H1", "ItemsController.cs:GetItems", "returning hardcoded items without strapi", new { count = items.Count });
+      #endregion
       return Ok(items);
     }
 
@@ -137,6 +160,9 @@ namespace Krugozor.WebAPI.Controllers
     public async Task<ActionResult> GetItemById([FromRoute] int Id)
     {
       var item = items.Where(x => x.Id == Id).FirstOrDefault();
+      #region agent log
+      WriteDebugLog("pre-fix", "H2", "ItemsController.cs:GetItemById", "returning hardcoded item without strapi", new { id = Id, found = item is not null });
+      #endregion
       return Ok(item);
     }
 

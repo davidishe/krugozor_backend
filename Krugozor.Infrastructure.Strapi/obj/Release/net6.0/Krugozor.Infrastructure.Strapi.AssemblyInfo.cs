@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Krugozor.Infrastructure.Strapi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ffcdd58429ee3b4a630350fe09af9a45545f670c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1feeadc299f60c008ee5b055ead47cc32f7c6af4")]
 [assembly: System.Reflection.AssemblyProductAttribute("Krugozor.Infrastructure.Strapi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Krugozor.Infrastructure.Strapi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
