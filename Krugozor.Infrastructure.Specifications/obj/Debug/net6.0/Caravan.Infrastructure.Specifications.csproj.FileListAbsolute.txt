@@ -1,0 +1,17 @@
+/Users/akobiyada/Documents/SpecialProjects/42_KARAVAN_SPACE/karavan_backend/Caravan.Infrastructure.Specifications/bin/Debug/net6.0/Caravan.Infrastructure.Specifications.deps.json
+/Users/akobiyada/Documents/SpecialProjects/42_KARAVAN_SPACE/karavan_backend/Caravan.Infrastructure.Specifications/bin/Debug/net6.0/Caravan.Infrastructure.Specifications.runtimeconfig.json
+/Users/akobiyada/Documents/SpecialProjects/42_KARAVAN_SPACE/karavan_backend/Caravan.Infrastructure.Specifications/bin/Debug/net6.0/Caravan.Infrastructure.Specifications.dll
+/Users/akobiyada/Documents/SpecialProjects/42_KARAVAN_SPACE/karavan_backend/Caravan.Infrastructure.Specifications/bin/Debug/net6.0/Caravan.Infrastructure.Specifications.pdb
+/Users/akobiyada/Documents/SpecialProjects/42_KARAVAN_SPACE/karavan_backend/Caravan.Infrastructure.Specifications/bin/Debug/net6.0/Core.dll
+/Users/akobiyada/Documents/SpecialProjects/42_KARAVAN_SPACE/karavan_backend/Caravan.Infrastructure.Specifications/bin/Debug/net6.0/Core.pdb
+/Users/akobiyada/Documents/SpecialProjects/42_KARAVAN_SPACE/karavan_backend/Caravan.Infrastructure.Specifications/obj/Debug/net6.0/Caravan.Infrastructure.Specifications.csproj.AssemblyReference.cache
+/Users/akobiyada/Documents/SpecialProjects/42_KARAVAN_SPACE/karavan_backend/Caravan.Infrastructure.Specifications/obj/Debug/net6.0/Caravan.Infrastructure.Specifications.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akobiyada/Documents/SpecialProjects/42_KARAVAN_SPACE/karavan_backend/Caravan.Infrastructure.Specifications/obj/Debug/net6.0/Caravan.Infrastructure.Specifications.AssemblyInfoInputs.cache
+/Users/akobiyada/Documents/SpecialProjects/42_KARAVAN_SPACE/karavan_backend/Caravan.Infrastructure.Specifications/obj/Debug/net6.0/Caravan.Infrastructure.Specifications.AssemblyInfo.cs
+/Users/akobiyada/Documents/SpecialProjects/42_KARAVAN_SPACE/karavan_backend/Caravan.Infrastructure.Specifications/obj/Debug/net6.0/Caravan.Infrastructure.Specifications.csproj.CoreCompileInputs.cache
+/Users/akobiyada/Documents/SpecialProjects/42_KARAVAN_SPACE/karavan_backend/Caravan.Infrastructure.Specifications/obj/Debug/net6.0/Caravan.Infrastructure.Specifications.csproj.CopyComplete
+/Users/akobiyada/Documents/SpecialProjects/42_KARAVAN_SPACE/karavan_backend/Caravan.Infrastructure.Specifications/obj/Debug/net6.0/Caravan.Infrastructure.Specifications.dll
+/Users/akobiyada/Documents/SpecialProjects/42_KARAVAN_SPACE/karavan_backend/Caravan.Infrastructure.Specifications/obj/Debug/net6.0/refint/Caravan.Infrastructure.Specifications.dll
+/Users/akobiyada/Documents/SpecialProjects/42_KARAVAN_SPACE/karavan_backend/Caravan.Infrastructure.Specifications/obj/Debug/net6.0/Caravan.Infrastructure.Specifications.pdb
+/Users/akobiyada/Documents/SpecialProjects/42_KARAVAN_SPACE/karavan_backend/Caravan.Infrastructure.Specifications/obj/Debug/net6.0/Caravan.Infrastructure.Specifications.genruntimeconfig.cache
+/Users/akobiyada/Documents/SpecialProjects/42_KARAVAN_SPACE/karavan_backend/Caravan.Infrastructure.Specifications/obj/Debug/net6.0/ref/Caravan.Infrastructure.Specifications.dll

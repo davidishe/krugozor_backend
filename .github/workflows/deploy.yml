@@ -1,0 +1,137 @@
+name: Prod | Dotnet app deployment workflow
+on:
+  push: 
+    branches: [main]
+
+jobs:
+  job_one:
+    name: Clone repo
+    runs-on : ubuntu-latest
+    steps:
+      - name: establisihing ssh connection
+        uses: appleboy/ssh-action@master
+        with:
+          host: 95.163.241.193
+          username: root
+          key: ${{ secrets.LINUX_DEPLOY_SECRET }}
+          port: 22
+          script: |
+            whoami
+
+            # спасаем активы
+            cp -R /var/apps/backend/krugozor/Assets/ /var/apps/backend/krugozor_assets_backup
+
+            cd /root/apps_sources/
+            rm -rf /root/apps_sources/krugozor_backend
+            rm -rf /var/apps/backend/krugozor_backend
+            git clone git@github.com:davidishe/krugozor_backend.git
+  
+  job_two:
+    name: Install dotnet packages
+    runs-on : ubuntu-latest
+    needs: [job_one]
+    steps:
+      - name: establisihing ssh connection
+        uses: appleboy/ssh-action@master
+        with:
+          host: 95.163.241.193
+          username: root
+          key: ${{ secrets.LINUX_DEPLOY_SECRET }}
+          port: 22
+          script: |
+            whoami
+            
+            cd /root/apps_sources/krugozor_backend/Krugozor.WebAPI/Properties/
+            mv launchSettings.Protected.Production.json launchSettings.json
+
+            cd /root/apps_sources/krugozor_backend/Krugozor.WebAPI/
+            mv appsettings.Protected.Production.json appsettings.json
+            # sed -i 's/TELEGRAM_TOKEN_PROD/'${{ secrets.TELEGRAM_TOKEN_PROD }}'/' appsettings.json
+            sed -i 's/DATABASE_PASSWORD/'${{ secrets.DATABASE_PASSWORD_PROD }}'/' appsettings.json
+            sed -i 's/STRAPI_API_TOKEN/'${{ secrets.STRAPI_API_TOKEN }}'/' appsettings.json
+
+            systemctl stop krugozor
+
+            cd /root/apps_sources/krugozor_backend/
+            dotnet restore
+        
+
+            rm -rf /var/apps/backend/krugozor
+            mkdir -p /var/apps/backend/krugozor
+            
+
+  job_tree:
+      name: Publish dotnet app
+      runs-on : ubuntu-latest
+      needs: [job_two]
+      steps:
+        - name: establisihing ssh connection
+          uses: appleboy/ssh-action@master
+          with:
+            host: 95.163.241.193
+            username: root
+            key: ${{ secrets.LINUX_DEPLOY_SECRET }}
+            port: 22
+            script: |
+              whoami
+              cd /root/apps_sources/krugozor_backend/Krugozor.WebAPI
+              dotnet publish -c Release -o ../../krugozor
+
+
+  job_four:
+    name: Move files to work directory
+    runs-on : ubuntu-latest
+    needs: [job_tree]
+    steps:
+      - name: establisihing ssh connection
+        uses: appleboy/ssh-action@master
+        with:
+          host: 95.163.241.193
+          username: root
+          key: ${{ secrets.LINUX_DEPLOY_SECRET }}
+          port: 22
+          script: |
+            whoami
+            cd /root/apps_sources/krugozor
+            
+            mkdir -p /var/apps/backend
+            mkdir -p /var/apps/backend/krugozor
+            cp -R . /var/apps/backend/krugozor
+            cp CI/krugozor.service /etc/systemd/system/
+
+            mkdir -p /var/apps/backend/krugozor/Assets
+            mkdir -p /var/apps/backend/krugozor/Assets/Images
+            mkdir -p /var/apps/backend/krugozor/Assets/Images/Users
+            mkdir -p /var/apps/backend/krugozor/Assets/Pictures
+
+            # возвращаем активы
+            cd /var/apps/backend/krugozor_assets_backup/
+            cp -R . /var/apps/backend/krugozor/Assets/ 
+            rm -rf /var/apps/backend/krugozor_assets_backup
+    
+            systemctl enable krugozor.service
+            systemctl restart krugozor.service
+
+            cp -R -n CI/api.krugozor.space.conf /etc/nginx/nginx_configs
+            systemctl restart nginx             
+
+
+
+  final_jobe:
+    name: Delete old staff
+    runs-on : ubuntu-latest
+    needs: [job_four]
+    steps:
+      - name: establisihing ssh connection
+        uses: appleboy/ssh-action@master
+        with:
+          host: 95.163.241.193
+          username: root
+          key: ${{ secrets.LINUX_DEPLOY_SECRET }}
+          port: 22
+          script: |
+            whoami
+            # delete git clone directory
+            rm -rf /root/apps_sources/krugozor_backend
+            # delete publish directory
+            rm -rf /root/apps_sources/krugozor

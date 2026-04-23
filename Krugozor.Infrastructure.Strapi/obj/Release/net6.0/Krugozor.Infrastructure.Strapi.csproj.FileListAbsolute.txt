@@ -1,0 +1,13 @@
+/Users/akobiyada/Documents/SpecialProjects/01_Focus_for_developing/58_DAVINCI/krugozor_backend/Krugozor.Infrastructure.Strapi/bin/Release/net6.0/Krugozor.Infrastructure.Strapi.deps.json
+/Users/akobiyada/Documents/SpecialProjects/01_Focus_for_developing/58_DAVINCI/krugozor_backend/Krugozor.Infrastructure.Strapi/bin/Release/net6.0/Krugozor.Infrastructure.Strapi.dll
+/Users/akobiyada/Documents/SpecialProjects/01_Focus_for_developing/58_DAVINCI/krugozor_backend/Krugozor.Infrastructure.Strapi/bin/Release/net6.0/Krugozor.Infrastructure.Strapi.pdb
+/Users/akobiyada/Documents/SpecialProjects/01_Focus_for_developing/58_DAVINCI/krugozor_backend/Krugozor.Infrastructure.Strapi/obj/Release/net6.0/Krugozor.Infrastructure.Strapi.csproj.AssemblyReference.cache
+/Users/akobiyada/Documents/SpecialProjects/01_Focus_for_developing/58_DAVINCI/krugozor_backend/Krugozor.Infrastructure.Strapi/obj/Release/net6.0/Krugozor.Infrastructure.Strapi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akobiyada/Documents/SpecialProjects/01_Focus_for_developing/58_DAVINCI/krugozor_backend/Krugozor.Infrastructure.Strapi/obj/Release/net6.0/Krugozor.Infrastructure.Strapi.AssemblyInfoInputs.cache
+/Users/akobiyada/Documents/SpecialProjects/01_Focus_for_developing/58_DAVINCI/krugozor_backend/Krugozor.Infrastructure.Strapi/obj/Release/net6.0/Krugozor.Infrastructure.Strapi.AssemblyInfo.cs
+/Users/akobiyada/Documents/SpecialProjects/01_Focus_for_developing/58_DAVINCI/krugozor_backend/Krugozor.Infrastructure.Strapi/obj/Release/net6.0/Krugozor.Infrastructure.Strapi.csproj.CoreCompileInputs.cache
+/Users/akobiyada/Documents/SpecialProjects/01_Focus_for_developing/58_DAVINCI/krugozor_backend/Krugozor.Infrastructure.Strapi/obj/Release/net6.0/Krugozor.Infrastructure.Strapi.sourcelink.json
+/Users/akobiyada/Documents/SpecialProjects/01_Focus_for_developing/58_DAVINCI/krugozor_backend/Krugozor.Infrastructure.Strapi/obj/Release/net6.0/Krugozor.Infrastructure.Strapi.dll
+/Users/akobiyada/Documents/SpecialProjects/01_Focus_for_developing/58_DAVINCI/krugozor_backend/Krugozor.Infrastructure.Strapi/obj/Release/net6.0/refint/Krugozor.Infrastructure.Strapi.dll
+/Users/akobiyada/Documents/SpecialProjects/01_Focus_for_developing/58_DAVINCI/krugozor_backend/Krugozor.Infrastructure.Strapi/obj/Release/net6.0/Krugozor.Infrastructure.Strapi.pdb
+/Users/akobiyada/Documents/SpecialProjects/01_Focus_for_developing/58_DAVINCI/krugozor_backend/Krugozor.Infrastructure.Strapi/obj/Release/net6.0/ref/Krugozor.Infrastructure.Strapi.dll

@@ -1,0 +1,17 @@
+/Users/akobiyada/Documents/SpecialProjects/40_GEMIGRANT_SPACE/geohelper_backend_auth/GeoHelper.Infrastructure.Specifications/bin/Release/net6.0/GeoHelper.Infrastructure.Specifications.deps.json
+/Users/akobiyada/Documents/SpecialProjects/40_GEMIGRANT_SPACE/geohelper_backend_auth/GeoHelper.Infrastructure.Specifications/bin/Release/net6.0/GeoHelper.Infrastructure.Specifications.runtimeconfig.json
+/Users/akobiyada/Documents/SpecialProjects/40_GEMIGRANT_SPACE/geohelper_backend_auth/GeoHelper.Infrastructure.Specifications/bin/Release/net6.0/GeoHelper.Infrastructure.Specifications.dll
+/Users/akobiyada/Documents/SpecialProjects/40_GEMIGRANT_SPACE/geohelper_backend_auth/GeoHelper.Infrastructure.Specifications/bin/Release/net6.0/GeoHelper.Infrastructure.Specifications.pdb
+/Users/akobiyada/Documents/SpecialProjects/40_GEMIGRANT_SPACE/geohelper_backend_auth/GeoHelper.Infrastructure.Specifications/bin/Release/net6.0/Core.dll
+/Users/akobiyada/Documents/SpecialProjects/40_GEMIGRANT_SPACE/geohelper_backend_auth/GeoHelper.Infrastructure.Specifications/bin/Release/net6.0/Core.pdb
+/Users/akobiyada/Documents/SpecialProjects/40_GEMIGRANT_SPACE/geohelper_backend_auth/GeoHelper.Infrastructure.Specifications/obj/Release/net6.0/GeoHelper.Infrastructure.Specifications.csproj.AssemblyReference.cache
+/Users/akobiyada/Documents/SpecialProjects/40_GEMIGRANT_SPACE/geohelper_backend_auth/GeoHelper.Infrastructure.Specifications/obj/Release/net6.0/GeoHelper.Infrastructure.Specifications.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akobiyada/Documents/SpecialProjects/40_GEMIGRANT_SPACE/geohelper_backend_auth/GeoHelper.Infrastructure.Specifications/obj/Release/net6.0/GeoHelper.Infrastructure.Specifications.AssemblyInfoInputs.cache
+/Users/akobiyada/Documents/SpecialProjects/40_GEMIGRANT_SPACE/geohelper_backend_auth/GeoHelper.Infrastructure.Specifications/obj/Release/net6.0/GeoHelper.Infrastructure.Specifications.AssemblyInfo.cs
+/Users/akobiyada/Documents/SpecialProjects/40_GEMIGRANT_SPACE/geohelper_backend_auth/GeoHelper.Infrastructure.Specifications/obj/Release/net6.0/GeoHelper.Infrastructure.Specifications.csproj.CoreCompileInputs.cache
+/Users/akobiyada/Documents/SpecialProjects/40_GEMIGRANT_SPACE/geohelper_backend_auth/GeoHelper.Infrastructure.Specifications/obj/Release/net6.0/GeoHelper.Infrastructure.Specifications.csproj.CopyComplete
+/Users/akobiyada/Documents/SpecialProjects/40_GEMIGRANT_SPACE/geohelper_backend_auth/GeoHelper.Infrastructure.Specifications/obj/Release/net6.0/GeoHelper.Infrastructure.Specifications.dll
+/Users/akobiyada/Documents/SpecialProjects/40_GEMIGRANT_SPACE/geohelper_backend_auth/GeoHelper.Infrastructure.Specifications/obj/Release/net6.0/refint/GeoHelper.Infrastructure.Specifications.dll
+/Users/akobiyada/Documents/SpecialProjects/40_GEMIGRANT_SPACE/geohelper_backend_auth/GeoHelper.Infrastructure.Specifications/obj/Release/net6.0/GeoHelper.Infrastructure.Specifications.pdb
+/Users/akobiyada/Documents/SpecialProjects/40_GEMIGRANT_SPACE/geohelper_backend_auth/GeoHelper.Infrastructure.Specifications/obj/Release/net6.0/GeoHelper.Infrastructure.Specifications.genruntimeconfig.cache
+/Users/akobiyada/Documents/SpecialProjects/40_GEMIGRANT_SPACE/geohelper_backend_auth/GeoHelper.Infrastructure.Specifications/obj/Release/net6.0/ref/GeoHelper.Infrastructure.Specifications.dll

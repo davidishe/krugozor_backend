@@ -1,0 +1,15 @@
+/Users/akobiyada/Documents/SpecialProjects/41_Platform/platform_auth_app/Platform.Email/bin/Debug/net6.0/Platform.Email.deps.json
+/Users/akobiyada/Documents/SpecialProjects/41_Platform/platform_auth_app/Platform.Email/bin/Debug/net6.0/Platform.Email.dll
+/Users/akobiyada/Documents/SpecialProjects/41_Platform/platform_auth_app/Platform.Email/bin/Debug/net6.0/Platform.Email.pdb
+/Users/akobiyada/Documents/SpecialProjects/41_Platform/platform_auth_app/Platform.Email/bin/Debug/net6.0/Core.dll
+/Users/akobiyada/Documents/SpecialProjects/41_Platform/platform_auth_app/Platform.Email/bin/Debug/net6.0/Core.pdb
+/Users/akobiyada/Documents/SpecialProjects/41_Platform/platform_auth_app/Platform.Email/obj/Debug/net6.0/Platform.Email.csproj.AssemblyReference.cache
+/Users/akobiyada/Documents/SpecialProjects/41_Platform/platform_auth_app/Platform.Email/obj/Debug/net6.0/Platform.Email.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akobiyada/Documents/SpecialProjects/41_Platform/platform_auth_app/Platform.Email/obj/Debug/net6.0/Platform.Email.AssemblyInfoInputs.cache
+/Users/akobiyada/Documents/SpecialProjects/41_Platform/platform_auth_app/Platform.Email/obj/Debug/net6.0/Platform.Email.AssemblyInfo.cs
+/Users/akobiyada/Documents/SpecialProjects/41_Platform/platform_auth_app/Platform.Email/obj/Debug/net6.0/Platform.Email.csproj.CoreCompileInputs.cache
+/Users/akobiyada/Documents/SpecialProjects/41_Platform/platform_auth_app/Platform.Email/obj/Debug/net6.0/Platform.Email.csproj.CopyComplete
+/Users/akobiyada/Documents/SpecialProjects/41_Platform/platform_auth_app/Platform.Email/obj/Debug/net6.0/Platform.Email.dll
+/Users/akobiyada/Documents/SpecialProjects/41_Platform/platform_auth_app/Platform.Email/obj/Debug/net6.0/refint/Platform.Email.dll
+/Users/akobiyada/Documents/SpecialProjects/41_Platform/platform_auth_app/Platform.Email/obj/Debug/net6.0/Platform.Email.pdb
+/Users/akobiyada/Documents/SpecialProjects/41_Platform/platform_auth_app/Platform.Email/obj/Debug/net6.0/ref/Platform.Email.dll

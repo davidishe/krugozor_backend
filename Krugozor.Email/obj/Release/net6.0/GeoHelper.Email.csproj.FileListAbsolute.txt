@@ -1,0 +1,15 @@
+/Users/akobiyada/Documents/SpecialProjects/40_GEMIGRANT_SPACE/geohelper_backend_auth/GeoHelper.Email/bin/Release/net6.0/GeoHelper.Email.deps.json
+/Users/akobiyada/Documents/SpecialProjects/40_GEMIGRANT_SPACE/geohelper_backend_auth/GeoHelper.Email/bin/Release/net6.0/GeoHelper.Email.dll
+/Users/akobiyada/Documents/SpecialProjects/40_GEMIGRANT_SPACE/geohelper_backend_auth/GeoHelper.Email/bin/Release/net6.0/GeoHelper.Email.pdb
+/Users/akobiyada/Documents/SpecialProjects/40_GEMIGRANT_SPACE/geohelper_backend_auth/GeoHelper.Email/bin/Release/net6.0/Core.dll
+/Users/akobiyada/Documents/SpecialProjects/40_GEMIGRANT_SPACE/geohelper_backend_auth/GeoHelper.Email/bin/Release/net6.0/Core.pdb
+/Users/akobiyada/Documents/SpecialProjects/40_GEMIGRANT_SPACE/geohelper_backend_auth/GeoHelper.Email/obj/Release/net6.0/GeoHelper.Email.csproj.AssemblyReference.cache
+/Users/akobiyada/Documents/SpecialProjects/40_GEMIGRANT_SPACE/geohelper_backend_auth/GeoHelper.Email/obj/Release/net6.0/GeoHelper.Email.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akobiyada/Documents/SpecialProjects/40_GEMIGRANT_SPACE/geohelper_backend_auth/GeoHelper.Email/obj/Release/net6.0/GeoHelper.Email.AssemblyInfoInputs.cache
+/Users/akobiyada/Documents/SpecialProjects/40_GEMIGRANT_SPACE/geohelper_backend_auth/GeoHelper.Email/obj/Release/net6.0/GeoHelper.Email.AssemblyInfo.cs
+/Users/akobiyada/Documents/SpecialProjects/40_GEMIGRANT_SPACE/geohelper_backend_auth/GeoHelper.Email/obj/Release/net6.0/GeoHelper.Email.csproj.CoreCompileInputs.cache
+/Users/akobiyada/Documents/SpecialProjects/40_GEMIGRANT_SPACE/geohelper_backend_auth/GeoHelper.Email/obj/Release/net6.0/GeoHelper.Email.csproj.CopyComplete
+/Users/akobiyada/Documents/SpecialProjects/40_GEMIGRANT_SPACE/geohelper_backend_auth/GeoHelper.Email/obj/Release/net6.0/GeoHelper.Email.dll
+/Users/akobiyada/Documents/SpecialProjects/40_GEMIGRANT_SPACE/geohelper_backend_auth/GeoHelper.Email/obj/Release/net6.0/refint/GeoHelper.Email.dll
+/Users/akobiyada/Documents/SpecialProjects/40_GEMIGRANT_SPACE/geohelper_backend_auth/GeoHelper.Email/obj/Release/net6.0/GeoHelper.Email.pdb
+/Users/akobiyada/Documents/SpecialProjects/40_GEMIGRANT_SPACE/geohelper_backend_auth/GeoHelper.Email/obj/Release/net6.0/ref/GeoHelper.Email.dll

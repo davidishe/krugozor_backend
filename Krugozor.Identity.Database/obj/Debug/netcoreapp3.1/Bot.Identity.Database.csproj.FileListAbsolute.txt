@@ -1,0 +1,16 @@
+/Users/akobiyada/Documents/SpecialProjects/10_Bot/MyAppBack/Bot.Identity.Database/bin/Debug/netcoreapp3.1/Bot.Identity.Database.deps.json
+/Users/akobiyada/Documents/SpecialProjects/10_Bot/MyAppBack/Bot.Identity.Database/bin/Debug/netcoreapp3.1/Bot.Identity.Database.runtimeconfig.json
+/Users/akobiyada/Documents/SpecialProjects/10_Bot/MyAppBack/Bot.Identity.Database/bin/Debug/netcoreapp3.1/Bot.Identity.Database.runtimeconfig.dev.json
+/Users/akobiyada/Documents/SpecialProjects/10_Bot/MyAppBack/Bot.Identity.Database/bin/Debug/netcoreapp3.1/Bot.Identity.Database.dll
+/Users/akobiyada/Documents/SpecialProjects/10_Bot/MyAppBack/Bot.Identity.Database/bin/Debug/netcoreapp3.1/Bot.Identity.Database.pdb
+/Users/akobiyada/Documents/SpecialProjects/10_Bot/MyAppBack/Bot.Identity.Database/bin/Debug/netcoreapp3.1/Core.dll
+/Users/akobiyada/Documents/SpecialProjects/10_Bot/MyAppBack/Bot.Identity.Database/bin/Debug/netcoreapp3.1/Core.pdb
+/Users/akobiyada/Documents/SpecialProjects/10_Bot/MyAppBack/Bot.Identity.Database/obj/Debug/netcoreapp3.1/Bot.Identity.Database.csprojAssemblyReference.cache
+/Users/akobiyada/Documents/SpecialProjects/10_Bot/MyAppBack/Bot.Identity.Database/obj/Debug/netcoreapp3.1/Bot.Identity.Database.AssemblyInfoInputs.cache
+/Users/akobiyada/Documents/SpecialProjects/10_Bot/MyAppBack/Bot.Identity.Database/obj/Debug/netcoreapp3.1/Bot.Identity.Database.AssemblyInfo.cs
+/Users/akobiyada/Documents/SpecialProjects/10_Bot/MyAppBack/Bot.Identity.Database/obj/Debug/netcoreapp3.1/Bot.Identity.Database.csproj.CoreCompileInputs.cache
+/Users/akobiyada/Documents/SpecialProjects/10_Bot/MyAppBack/Bot.Identity.Database/obj/Debug/netcoreapp3.1/Bot.Identity.Database.csproj.CopyComplete
+/Users/akobiyada/Documents/SpecialProjects/10_Bot/MyAppBack/Bot.Identity.Database/obj/Debug/netcoreapp3.1/Bot.Identity.Database.dll
+/Users/akobiyada/Documents/SpecialProjects/10_Bot/MyAppBack/Bot.Identity.Database/obj/Debug/netcoreapp3.1/Bot.Identity.Database.pdb
+/Users/akobiyada/Documents/SpecialProjects/10_Bot/MyAppBack/Bot.Identity.Database/obj/Debug/netcoreapp3.1/Bot.Identity.Database.genruntimeconfig.cache
+/Users/akobiyada/Documents/SpecialProjects/10_Bot/MyAppBack/Bot.Identity.Database/bin/Debug/netcoreapp3.1/Seed/SeedData/users.json

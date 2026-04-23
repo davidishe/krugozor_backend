@@ -1,0 +1,17 @@
+/Users/akobiyada/Documents/SpecialProjects/30_PROPERTY_CAT/property_cat_backend/PropertyCat.Infrastructure.Specifications/bin/Release/net6.0/PropertyCat.Infrastructure.Specifications.deps.json
+/Users/akobiyada/Documents/SpecialProjects/30_PROPERTY_CAT/property_cat_backend/PropertyCat.Infrastructure.Specifications/bin/Release/net6.0/PropertyCat.Infrastructure.Specifications.runtimeconfig.json
+/Users/akobiyada/Documents/SpecialProjects/30_PROPERTY_CAT/property_cat_backend/PropertyCat.Infrastructure.Specifications/bin/Release/net6.0/PropertyCat.Infrastructure.Specifications.dll
+/Users/akobiyada/Documents/SpecialProjects/30_PROPERTY_CAT/property_cat_backend/PropertyCat.Infrastructure.Specifications/bin/Release/net6.0/PropertyCat.Infrastructure.Specifications.pdb
+/Users/akobiyada/Documents/SpecialProjects/30_PROPERTY_CAT/property_cat_backend/PropertyCat.Infrastructure.Specifications/bin/Release/net6.0/Core.dll
+/Users/akobiyada/Documents/SpecialProjects/30_PROPERTY_CAT/property_cat_backend/PropertyCat.Infrastructure.Specifications/bin/Release/net6.0/Core.pdb
+/Users/akobiyada/Documents/SpecialProjects/30_PROPERTY_CAT/property_cat_backend/PropertyCat.Infrastructure.Specifications/obj/Release/net6.0/PropertyCat.Infrastructure.Specifications.csproj.AssemblyReference.cache
+/Users/akobiyada/Documents/SpecialProjects/30_PROPERTY_CAT/property_cat_backend/PropertyCat.Infrastructure.Specifications/obj/Release/net6.0/PropertyCat.Infrastructure.Specifications.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akobiyada/Documents/SpecialProjects/30_PROPERTY_CAT/property_cat_backend/PropertyCat.Infrastructure.Specifications/obj/Release/net6.0/PropertyCat.Infrastructure.Specifications.AssemblyInfoInputs.cache
+/Users/akobiyada/Documents/SpecialProjects/30_PROPERTY_CAT/property_cat_backend/PropertyCat.Infrastructure.Specifications/obj/Release/net6.0/PropertyCat.Infrastructure.Specifications.AssemblyInfo.cs
+/Users/akobiyada/Documents/SpecialProjects/30_PROPERTY_CAT/property_cat_backend/PropertyCat.Infrastructure.Specifications/obj/Release/net6.0/PropertyCat.Infrastructure.Specifications.csproj.CoreCompileInputs.cache
+/Users/akobiyada/Documents/SpecialProjects/30_PROPERTY_CAT/property_cat_backend/PropertyCat.Infrastructure.Specifications/obj/Release/net6.0/PropertyCat.Infrastructure.Specifications.csproj.CopyComplete
+/Users/akobiyada/Documents/SpecialProjects/30_PROPERTY_CAT/property_cat_backend/PropertyCat.Infrastructure.Specifications/obj/Release/net6.0/PropertyCat.Infrastructure.Specifications.dll
+/Users/akobiyada/Documents/SpecialProjects/30_PROPERTY_CAT/property_cat_backend/PropertyCat.Infrastructure.Specifications/obj/Release/net6.0/refint/PropertyCat.Infrastructure.Specifications.dll
+/Users/akobiyada/Documents/SpecialProjects/30_PROPERTY_CAT/property_cat_backend/PropertyCat.Infrastructure.Specifications/obj/Release/net6.0/PropertyCat.Infrastructure.Specifications.pdb
+/Users/akobiyada/Documents/SpecialProjects/30_PROPERTY_CAT/property_cat_backend/PropertyCat.Infrastructure.Specifications/obj/Release/net6.0/PropertyCat.Infrastructure.Specifications.genruntimeconfig.cache
+/Users/akobiyada/Documents/SpecialProjects/30_PROPERTY_CAT/property_cat_backend/PropertyCat.Infrastructure.Specifications/obj/Release/net6.0/ref/PropertyCat.Infrastructure.Specifications.dll

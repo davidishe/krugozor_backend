@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = Bot.Infrastructure.Database
+build_property.ProjectDir = /Users/akobiyada/Documents/SpecialProjects/30_PROPERTY_CAT/property_cat_backend/Bot.Infrastructure.Database/

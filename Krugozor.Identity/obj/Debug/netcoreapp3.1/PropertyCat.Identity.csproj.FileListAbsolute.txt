@@ -1,0 +1,17 @@
+/Users/akobiyada/Documents/SpecialProjects/30_PROPERTY_CAT/property_cat_backend/PropertyCat.Identity/bin/Debug/netcoreapp3.1/Seed/SeedData/userpositions.json
+/Users/akobiyada/Documents/SpecialProjects/30_PROPERTY_CAT/property_cat_backend/PropertyCat.Identity/bin/Debug/netcoreapp3.1/Seed/SeedData/users.json
+/Users/akobiyada/Documents/SpecialProjects/30_PROPERTY_CAT/property_cat_backend/PropertyCat.Identity/bin/Debug/netcoreapp3.1/PropertyCat.Identity.deps.json
+/Users/akobiyada/Documents/SpecialProjects/30_PROPERTY_CAT/property_cat_backend/PropertyCat.Identity/bin/Debug/netcoreapp3.1/PropertyCat.Identity.dll
+/Users/akobiyada/Documents/SpecialProjects/30_PROPERTY_CAT/property_cat_backend/PropertyCat.Identity/bin/Debug/netcoreapp3.1/PropertyCat.Identity.pdb
+/Users/akobiyada/Documents/SpecialProjects/30_PROPERTY_CAT/property_cat_backend/PropertyCat.Identity/bin/Debug/netcoreapp3.1/Core.dll
+/Users/akobiyada/Documents/SpecialProjects/30_PROPERTY_CAT/property_cat_backend/PropertyCat.Identity/bin/Debug/netcoreapp3.1/PropertyCat.Identity.Database.dll
+/Users/akobiyada/Documents/SpecialProjects/30_PROPERTY_CAT/property_cat_backend/PropertyCat.Identity/bin/Debug/netcoreapp3.1/Core.pdb
+/Users/akobiyada/Documents/SpecialProjects/30_PROPERTY_CAT/property_cat_backend/PropertyCat.Identity/bin/Debug/netcoreapp3.1/PropertyCat.Identity.Database.pdb
+/Users/akobiyada/Documents/SpecialProjects/30_PROPERTY_CAT/property_cat_backend/PropertyCat.Identity/obj/Debug/netcoreapp3.1/PropertyCat.Identity.csproj.AssemblyReference.cache
+/Users/akobiyada/Documents/SpecialProjects/30_PROPERTY_CAT/property_cat_backend/PropertyCat.Identity/obj/Debug/netcoreapp3.1/PropertyCat.Identity.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akobiyada/Documents/SpecialProjects/30_PROPERTY_CAT/property_cat_backend/PropertyCat.Identity/obj/Debug/netcoreapp3.1/PropertyCat.Identity.AssemblyInfoInputs.cache
+/Users/akobiyada/Documents/SpecialProjects/30_PROPERTY_CAT/property_cat_backend/PropertyCat.Identity/obj/Debug/netcoreapp3.1/PropertyCat.Identity.AssemblyInfo.cs
+/Users/akobiyada/Documents/SpecialProjects/30_PROPERTY_CAT/property_cat_backend/PropertyCat.Identity/obj/Debug/netcoreapp3.1/PropertyCat.Identity.csproj.CoreCompileInputs.cache
+/Users/akobiyada/Documents/SpecialProjects/30_PROPERTY_CAT/property_cat_backend/PropertyCat.Identity/obj/Debug/netcoreapp3.1/PropertyCat.Identity.csproj.CopyComplete
+/Users/akobiyada/Documents/SpecialProjects/30_PROPERTY_CAT/property_cat_backend/PropertyCat.Identity/obj/Debug/netcoreapp3.1/PropertyCat.Identity.dll
+/Users/akobiyada/Documents/SpecialProjects/30_PROPERTY_CAT/property_cat_backend/PropertyCat.Identity/obj/Debug/netcoreapp3.1/PropertyCat.Identity.pdb

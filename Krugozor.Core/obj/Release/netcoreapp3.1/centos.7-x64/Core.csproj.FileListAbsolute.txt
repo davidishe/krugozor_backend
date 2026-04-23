@@ -1,0 +1,12 @@
+/Users/akobiyada/Documents/Projects/00_DocumentApp/MyAppBack/Core/bin/Release/netcoreapp3.1/centos.7-x64/Core.deps.json
+/Users/akobiyada/Documents/Projects/00_DocumentApp/MyAppBack/Core/bin/Release/netcoreapp3.1/centos.7-x64/Core.runtimeconfig.json
+/Users/akobiyada/Documents/Projects/00_DocumentApp/MyAppBack/Core/bin/Release/netcoreapp3.1/centos.7-x64/Core.runtimeconfig.dev.json
+/Users/akobiyada/Documents/Projects/00_DocumentApp/MyAppBack/Core/bin/Release/netcoreapp3.1/centos.7-x64/Core.dll
+/Users/akobiyada/Documents/Projects/00_DocumentApp/MyAppBack/Core/bin/Release/netcoreapp3.1/centos.7-x64/Core.pdb
+/Users/akobiyada/Documents/Projects/00_DocumentApp/MyAppBack/Core/obj/Release/netcoreapp3.1/centos.7-x64/Core.csprojAssemblyReference.cache
+/Users/akobiyada/Documents/Projects/00_DocumentApp/MyAppBack/Core/obj/Release/netcoreapp3.1/centos.7-x64/Core.AssemblyInfoInputs.cache
+/Users/akobiyada/Documents/Projects/00_DocumentApp/MyAppBack/Core/obj/Release/netcoreapp3.1/centos.7-x64/Core.AssemblyInfo.cs
+/Users/akobiyada/Documents/Projects/00_DocumentApp/MyAppBack/Core/obj/Release/netcoreapp3.1/centos.7-x64/Core.csproj.CoreCompileInputs.cache
+/Users/akobiyada/Documents/Projects/00_DocumentApp/MyAppBack/Core/obj/Release/netcoreapp3.1/centos.7-x64/Core.dll
+/Users/akobiyada/Documents/Projects/00_DocumentApp/MyAppBack/Core/obj/Release/netcoreapp3.1/centos.7-x64/Core.pdb
+/Users/akobiyada/Documents/Projects/00_DocumentApp/MyAppBack/Core/obj/Release/netcoreapp3.1/centos.7-x64/Core.genruntimeconfig.cache

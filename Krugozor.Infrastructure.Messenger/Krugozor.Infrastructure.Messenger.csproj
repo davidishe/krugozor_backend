@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity" Version="2.2.0" />
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Krugozor.Core\Core.csproj" />
+    <ProjectReference Include="..\Krugozor.Identity\Krugozor.Identity.csproj" />
+    <ProjectReference Include="..\Krugozor.Infrastructure.Database\Krugozor.Infrastructure.Database.csproj" />
+    <ProjectReference Include="..\Krugozor.Infrastructure.Specifications\Krugozor.Infrastructure.Specifications.csproj" />
+
+
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,17 @@
+/Users/akobiyada/Documents/SpecialProjects/10_Bot/chtole_bot_backend/Bot.Identity/bin/Release/netcoreapp3.1/Seed/SeedData/users.json
+/Users/akobiyada/Documents/SpecialProjects/10_Bot/chtole_bot_backend/Bot.Identity/bin/Release/netcoreapp3.1/Bot.Identity.deps.json
+/Users/akobiyada/Documents/SpecialProjects/10_Bot/chtole_bot_backend/Bot.Identity/bin/Release/netcoreapp3.1/Bot.Identity.dll
+/Users/akobiyada/Documents/SpecialProjects/10_Bot/chtole_bot_backend/Bot.Identity/bin/Release/netcoreapp3.1/Bot.Identity.pdb
+/Users/akobiyada/Documents/SpecialProjects/10_Bot/chtole_bot_backend/Bot.Identity/bin/Release/netcoreapp3.1/Bot.Identity.Database.dll
+/Users/akobiyada/Documents/SpecialProjects/10_Bot/chtole_bot_backend/Bot.Identity/bin/Release/netcoreapp3.1/Core.dll
+/Users/akobiyada/Documents/SpecialProjects/10_Bot/chtole_bot_backend/Bot.Identity/bin/Release/netcoreapp3.1/Core.pdb
+/Users/akobiyada/Documents/SpecialProjects/10_Bot/chtole_bot_backend/Bot.Identity/bin/Release/netcoreapp3.1/Bot.Identity.Database.pdb
+/Users/akobiyada/Documents/SpecialProjects/10_Bot/chtole_bot_backend/Bot.Identity/obj/Release/netcoreapp3.1/Bot.Identity.csproj.AssemblyReference.cache
+/Users/akobiyada/Documents/SpecialProjects/10_Bot/chtole_bot_backend/Bot.Identity/obj/Release/netcoreapp3.1/Bot.Identity.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akobiyada/Documents/SpecialProjects/10_Bot/chtole_bot_backend/Bot.Identity/obj/Release/netcoreapp3.1/Bot.Identity.AssemblyInfoInputs.cache
+/Users/akobiyada/Documents/SpecialProjects/10_Bot/chtole_bot_backend/Bot.Identity/obj/Release/netcoreapp3.1/Bot.Identity.AssemblyInfo.cs
+/Users/akobiyada/Documents/SpecialProjects/10_Bot/chtole_bot_backend/Bot.Identity/obj/Release/netcoreapp3.1/Bot.Identity.csproj.CoreCompileInputs.cache
+/Users/akobiyada/Documents/SpecialProjects/10_Bot/chtole_bot_backend/Bot.Identity/obj/Release/netcoreapp3.1/Bot.Identity.csproj.CopyComplete
+/Users/akobiyada/Documents/SpecialProjects/10_Bot/chtole_bot_backend/Bot.Identity/obj/Release/netcoreapp3.1/Bot.Identity.dll
+/Users/akobiyada/Documents/SpecialProjects/10_Bot/chtole_bot_backend/Bot.Identity/obj/Release/netcoreapp3.1/Bot.Identity.pdb
+/Users/akobiyada/Documents/SpecialProjects/10_Bot/chtole_bot_backend/Bot.Identity/bin/Release/netcoreapp3.1/Seed/SeedData/userpositions.json

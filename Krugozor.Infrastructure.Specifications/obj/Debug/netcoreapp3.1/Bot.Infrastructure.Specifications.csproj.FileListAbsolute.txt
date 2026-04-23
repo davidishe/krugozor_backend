@@ -1,0 +1,15 @@
+/Users/akobiyada/Documents/SpecialProjects/10_Bot/MyAppBack/Bot.Infrastructure.Specifications/bin/Debug/netcoreapp3.1/Bot.Infrastructure.Specifications.deps.json
+/Users/akobiyada/Documents/SpecialProjects/10_Bot/MyAppBack/Bot.Infrastructure.Specifications/bin/Debug/netcoreapp3.1/Bot.Infrastructure.Specifications.runtimeconfig.json
+/Users/akobiyada/Documents/SpecialProjects/10_Bot/MyAppBack/Bot.Infrastructure.Specifications/bin/Debug/netcoreapp3.1/Bot.Infrastructure.Specifications.runtimeconfig.dev.json
+/Users/akobiyada/Documents/SpecialProjects/10_Bot/MyAppBack/Bot.Infrastructure.Specifications/bin/Debug/netcoreapp3.1/Bot.Infrastructure.Specifications.dll
+/Users/akobiyada/Documents/SpecialProjects/10_Bot/MyAppBack/Bot.Infrastructure.Specifications/bin/Debug/netcoreapp3.1/Bot.Infrastructure.Specifications.pdb
+/Users/akobiyada/Documents/SpecialProjects/10_Bot/MyAppBack/Bot.Infrastructure.Specifications/bin/Debug/netcoreapp3.1/Core.dll
+/Users/akobiyada/Documents/SpecialProjects/10_Bot/MyAppBack/Bot.Infrastructure.Specifications/bin/Debug/netcoreapp3.1/Core.pdb
+/Users/akobiyada/Documents/SpecialProjects/10_Bot/MyAppBack/Bot.Infrastructure.Specifications/obj/Debug/netcoreapp3.1/Bot.Infrastructure.Specifications.csprojAssemblyReference.cache
+/Users/akobiyada/Documents/SpecialProjects/10_Bot/MyAppBack/Bot.Infrastructure.Specifications/obj/Debug/netcoreapp3.1/Bot.Infrastructure.Specifications.AssemblyInfoInputs.cache
+/Users/akobiyada/Documents/SpecialProjects/10_Bot/MyAppBack/Bot.Infrastructure.Specifications/obj/Debug/netcoreapp3.1/Bot.Infrastructure.Specifications.AssemblyInfo.cs
+/Users/akobiyada/Documents/SpecialProjects/10_Bot/MyAppBack/Bot.Infrastructure.Specifications/obj/Debug/netcoreapp3.1/Bot.Infrastructure.Specifications.csproj.CoreCompileInputs.cache
+/Users/akobiyada/Documents/SpecialProjects/10_Bot/MyAppBack/Bot.Infrastructure.Specifications/obj/Debug/netcoreapp3.1/Bot.Infrastructure.Specifications.csproj.CopyComplete
+/Users/akobiyada/Documents/SpecialProjects/10_Bot/MyAppBack/Bot.Infrastructure.Specifications/obj/Debug/netcoreapp3.1/Bot.Infrastructure.Specifications.dll
+/Users/akobiyada/Documents/SpecialProjects/10_Bot/MyAppBack/Bot.Infrastructure.Specifications/obj/Debug/netcoreapp3.1/Bot.Infrastructure.Specifications.pdb
+/Users/akobiyada/Documents/SpecialProjects/10_Bot/MyAppBack/Bot.Infrastructure.Specifications/obj/Debug/netcoreapp3.1/Bot.Infrastructure.Specifications.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+/Users/akobiyada/Documents/SpecialProjects/42_KARAVAN_SPACE/karavan_backend/Caravan.Infrastructure.Strapi/bin/Debug/net6.0/Caravan.Infrastructure.Strapi.deps.json
+/Users/akobiyada/Documents/SpecialProjects/42_KARAVAN_SPACE/karavan_backend/Caravan.Infrastructure.Strapi/bin/Debug/net6.0/Caravan.Infrastructure.Strapi.dll
+/Users/akobiyada/Documents/SpecialProjects/42_KARAVAN_SPACE/karavan_backend/Caravan.Infrastructure.Strapi/bin/Debug/net6.0/Caravan.Infrastructure.Strapi.pdb
+/Users/akobiyada/Documents/SpecialProjects/42_KARAVAN_SPACE/karavan_backend/Caravan.Infrastructure.Strapi/obj/Debug/net6.0/Caravan.Infrastructure.Strapi.csproj.AssemblyReference.cache
+/Users/akobiyada/Documents/SpecialProjects/42_KARAVAN_SPACE/karavan_backend/Caravan.Infrastructure.Strapi/obj/Debug/net6.0/Caravan.Infrastructure.Strapi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/akobiyada/Documents/SpecialProjects/42_KARAVAN_SPACE/karavan_backend/Caravan.Infrastructure.Strapi/obj/Debug/net6.0/Caravan.Infrastructure.Strapi.AssemblyInfoInputs.cache
+/Users/akobiyada/Documents/SpecialProjects/42_KARAVAN_SPACE/karavan_backend/Caravan.Infrastructure.Strapi/obj/Debug/net6.0/Caravan.Infrastructure.Strapi.AssemblyInfo.cs
+/Users/akobiyada/Documents/SpecialProjects/42_KARAVAN_SPACE/karavan_backend/Caravan.Infrastructure.Strapi/obj/Debug/net6.0/Caravan.Infrastructure.Strapi.csproj.CoreCompileInputs.cache
+/Users/akobiyada/Documents/SpecialProjects/42_KARAVAN_SPACE/karavan_backend/Caravan.Infrastructure.Strapi/obj/Debug/net6.0/Caravan.Infrastructure.Strapi.dll
+/Users/akobiyada/Documents/SpecialProjects/42_KARAVAN_SPACE/karavan_backend/Caravan.Infrastructure.Strapi/obj/Debug/net6.0/refint/Caravan.Infrastructure.Strapi.dll
+/Users/akobiyada/Documents/SpecialProjects/42_KARAVAN_SPACE/karavan_backend/Caravan.Infrastructure.Strapi/obj/Debug/net6.0/Caravan.Infrastructure.Strapi.pdb
+/Users/akobiyada/Documents/SpecialProjects/42_KARAVAN_SPACE/karavan_backend/Caravan.Infrastructure.Strapi/obj/Debug/net6.0/ref/Caravan.Infrastructure.Strapi.dll
