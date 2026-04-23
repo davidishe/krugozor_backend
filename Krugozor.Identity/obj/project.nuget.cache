@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "r9Y6f2Qi9VM=",
+  "dgSpecHash": "Hp1YP5F7i0Y=",
   "success": true,
   "projectFilePath": "/Users/akobiyada/Documents/SpecialProjects/01_Focus_for_developing/58_DAVINCI/krugozor_backend/Krugozor.Identity/Krugozor.Identity.csproj",
   "expectedPackageFiles": [
@@ -19,7 +19,7 @@
     "/Users/akobiyada/.nuget/packages/microsoft.aspnetcore.authentication.cookies/2.2.0/microsoft.aspnetcore.authentication.cookies.2.2.0.nupkg.sha512",
     "/Users/akobiyada/.nuget/packages/microsoft.aspnetcore.authentication.core/2.2.0/microsoft.aspnetcore.authentication.core.2.2.0.nupkg.sha512",
     "/Users/akobiyada/.nuget/packages/microsoft.aspnetcore.authentication.facebook/3.1.8/microsoft.aspnetcore.authentication.facebook.3.1.8.nupkg.sha512",
-    "/Users/akobiyada/.nuget/packages/microsoft.aspnetcore.authentication.jwtbearer/3.0.3/microsoft.aspnetcore.authentication.jwtbearer.3.0.3.nupkg.sha512",
+    "/Users/akobiyada/.nuget/packages/microsoft.aspnetcore.authentication.jwtbearer/6.0.36/microsoft.aspnetcore.authentication.jwtbearer.6.0.36.nupkg.sha512",
     "/Users/akobiyada/.nuget/packages/microsoft.aspnetcore.cryptography.internal/6.0.8/microsoft.aspnetcore.cryptography.internal.6.0.8.nupkg.sha512",
     "/Users/akobiyada/.nuget/packages/microsoft.aspnetcore.cryptography.keyderivation/6.0.8/microsoft.aspnetcore.cryptography.keyderivation.6.0.8.nupkg.sha512",
     "/Users/akobiyada/.nuget/packages/microsoft.aspnetcore.dataprotection/2.2.0/microsoft.aspnetcore.dataprotection.2.2.0.nupkg.sha512",
@@ -60,11 +60,12 @@
     "/Users/akobiyada/.nuget/packages/microsoft.extensions.primitives/6.0.0/microsoft.extensions.primitives.6.0.0.nupkg.sha512",
     "/Users/akobiyada/.nuget/packages/microsoft.extensions.webencoders/2.2.0/microsoft.extensions.webencoders.2.2.0.nupkg.sha512",
     "/Users/akobiyada/.nuget/packages/microsoft.identity.client/4.21.1/microsoft.identity.client.4.21.1.nupkg.sha512",
-    "/Users/akobiyada/.nuget/packages/microsoft.identitymodel.jsonwebtokens/6.8.0/microsoft.identitymodel.jsonwebtokens.6.8.0.nupkg.sha512",
-    "/Users/akobiyada/.nuget/packages/microsoft.identitymodel.logging/6.8.0/microsoft.identitymodel.logging.6.8.0.nupkg.sha512",
-    "/Users/akobiyada/.nuget/packages/microsoft.identitymodel.protocols/6.8.0/microsoft.identitymodel.protocols.6.8.0.nupkg.sha512",
-    "/Users/akobiyada/.nuget/packages/microsoft.identitymodel.protocols.openidconnect/6.8.0/microsoft.identitymodel.protocols.openidconnect.6.8.0.nupkg.sha512",
-    "/Users/akobiyada/.nuget/packages/microsoft.identitymodel.tokens/6.8.0/microsoft.identitymodel.tokens.6.8.0.nupkg.sha512",
+    "/Users/akobiyada/.nuget/packages/microsoft.identitymodel.abstractions/6.36.0/microsoft.identitymodel.abstractions.6.36.0.nupkg.sha512",
+    "/Users/akobiyada/.nuget/packages/microsoft.identitymodel.jsonwebtokens/6.36.0/microsoft.identitymodel.jsonwebtokens.6.36.0.nupkg.sha512",
+    "/Users/akobiyada/.nuget/packages/microsoft.identitymodel.logging/6.36.0/microsoft.identitymodel.logging.6.36.0.nupkg.sha512",
+    "/Users/akobiyada/.nuget/packages/microsoft.identitymodel.protocols/6.35.0/microsoft.identitymodel.protocols.6.35.0.nupkg.sha512",
+    "/Users/akobiyada/.nuget/packages/microsoft.identitymodel.protocols.openidconnect/6.35.0/microsoft.identitymodel.protocols.openidconnect.6.35.0.nupkg.sha512",
+    "/Users/akobiyada/.nuget/packages/microsoft.identitymodel.tokens/6.36.0/microsoft.identitymodel.tokens.6.36.0.nupkg.sha512",
     "/Users/akobiyada/.nuget/packages/microsoft.net.http.headers/2.2.0/microsoft.net.http.headers.2.2.0.nupkg.sha512",
     "/Users/akobiyada/.nuget/packages/microsoft.netcore.platforms/3.1.0/microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "/Users/akobiyada/.nuget/packages/microsoft.netcore.targets/1.1.0/microsoft.netcore.targets.1.1.0.nupkg.sha512",
@@ -78,7 +79,7 @@
     "/Users/akobiyada/.nuget/packages/system.configuration.configurationmanager/4.7.0/system.configuration.configurationmanager.4.7.0.nupkg.sha512",
     "/Users/akobiyada/.nuget/packages/system.diagnostics.diagnosticsource/6.0.0/system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
     "/Users/akobiyada/.nuget/packages/system.drawing.common/4.7.0/system.drawing.common.4.7.0.nupkg.sha512",
-    "/Users/akobiyada/.nuget/packages/system.identitymodel.tokens.jwt/6.8.0/system.identitymodel.tokens.jwt.6.8.0.nupkg.sha512",
+    "/Users/akobiyada/.nuget/packages/system.identitymodel.tokens.jwt/6.36.0/system.identitymodel.tokens.jwt.6.36.0.nupkg.sha512",
     "/Users/akobiyada/.nuget/packages/system.io/4.3.0/system.io.4.3.0.nupkg.sha512",
     "/Users/akobiyada/.nuget/packages/system.reflection/4.3.0/system.reflection.4.3.0.nupkg.sha512",
     "/Users/akobiyada/.nuget/packages/system.reflection.emit/4.3.0/system.reflection.emit.4.3.0.nupkg.sha512",
@@ -102,26 +103,5 @@
     "/Users/akobiyada/.nuget/packages/microsoft.netcore.app.ref/6.0.36/microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
     "/Users/akobiyada/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.36/microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1902",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "У пакета \"Microsoft.AspNetCore.Authentication.JwtBearer\" 3.0.3 есть известная уязвимость https://github.com/advisories/GHSA-q7cg-43mg-qp69 (уровень серьезности: средний уровень)",
-      "libraryId": "Microsoft.AspNetCore.Authentication.JwtBearer",
-      "targetGraphs": [
-        "net6.0"
-      ]
-    },
-    {
-      "code": "NU1902",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "У пакета \"System.IdentityModel.Tokens.Jwt\" 6.8.0 есть известная уязвимость https://github.com/advisories/GHSA-59j7-ghrg-fj52 (уровень серьезности: средний уровень)",
-      "libraryId": "System.IdentityModel.Tokens.Jwt",
-      "targetGraphs": [
-        "net6.0"
-      ]
-    }
-  ]
+  "logs": []
 }
