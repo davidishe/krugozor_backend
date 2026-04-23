@@ -1,4 +1,4 @@
-name: Prod | Dotnet app deployment workflow
+name: Prod | Dotnet app deployment
 on:
   push: 
     branches: [main]
