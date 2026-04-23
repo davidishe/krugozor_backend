@@ -21,7 +21,7 @@ namespace Krugozor.Infrastructure.Strapi
     /// <returns></returns>
     public async Task<DataDto> GetCompanyEntity(int id)
     {
-      var client = new RestClient($"https://strapi.krugozor.space/api/companies/{id}");
+      var client = new RestClient($"https://strapi.krugozor.davidishe.pro/api/companies/{id}");
       var restRequest = new RestRequest();
       restRequest.AddHeader("Authorization", "bearer " + _config.GetSection("AppSettings:StrapiApiToken").Value);
       restRequest.Method = Method.Get;
@@ -72,7 +72,7 @@ namespace Krugozor.Infrastructure.Strapi
     /// <returns></returns>
     public async Task<DataDto> GetProposalEntity(int id)
     {
-      var client = new RestClient($"https://strapi.krugozor.space/api/proposals/{id}");
+      var client = new RestClient($"https://strapi.krugozor.davidishe.pro/api/proposals/{id}");
       var restRequest = new RestRequest();
       restRequest.AddHeader("Authorization", "bearer " + _config.GetSection("AppSettings:StrapiApiToken").Value);
       restRequest.Method = Method.Get;
@@ -99,7 +99,7 @@ namespace Krugozor.Infrastructure.Strapi
     /// <returns></returns>
     public async Task<RestResponse> UpdateProposalEntity(Data data, int id)
     {
-      var client = new RestClient($"https://strapi.krugozor.space/api/proposals/{id}");
+      var client = new RestClient($"https://strapi.krugozor.davidishe.pro/api/proposals/{id}");
       var restRequest = new RestRequest();
       var serilaizeJson = JsonConvert.SerializeObject(data, Formatting.None,
         new JsonSerializerSettings
@@ -130,7 +130,7 @@ namespace Krugozor.Infrastructure.Strapi
     /// <returns></returns>
     public async Task<RestResponse> AddProposalEntity(Data data)
     {
-      var client = new RestClient("https://strapi.krugozor.space/api/proposals");
+      var client = new RestClient("https://strapi.krugozor.davidishe.pro/api/proposals");
       var restRequest = new RestRequest();
       var serilaizeJson = JsonConvert.SerializeObject(data, Formatting.None,
         new JsonSerializerSettings
@@ -162,7 +162,7 @@ namespace Krugozor.Infrastructure.Strapi
     /// <returns></returns>
     public async Task<RestResponse> AddCompanyAsync(Data data)
     {
-      var client = new RestClient("https://strapi.krugozor.space/api/companies");
+      var client = new RestClient("https://strapi.krugozor.davidishe.pro/api/companies");
       var restRequest = new RestRequest();
       var serilaizeJson = JsonConvert.SerializeObject(data, Formatting.None,
         new JsonSerializerSettings
@@ -189,7 +189,7 @@ namespace Krugozor.Infrastructure.Strapi
     public async Task<string> AddImageToMediaLibrary(string filePath)
     {
 
-      var client = new RestClient("https://strapi.krugozor.space/api/upload");
+      var client = new RestClient("https://strapi.krugozor.davidishe.pro/api/upload");
       var restRequest = new RestRequest();
       restRequest.Method = Method.Post;
       restRequest.AlwaysMultipartFormData = true;
@@ -217,7 +217,7 @@ namespace Krugozor.Infrastructure.Strapi
     /// <returns></returns>
     public async Task<RestResponse> UpdateCompanyEntity(Data data, int id)
     {
-      var client = new RestClient($"https://strapi.krugozor.space/api/companies/{id}");
+      var client = new RestClient($"https://strapi.krugozor.davidishe.pro/api/companies/{id}");
       var restRequest = new RestRequest();
       var serilaizeJson = JsonConvert.SerializeObject(data, Formatting.None,
         new JsonSerializerSettings

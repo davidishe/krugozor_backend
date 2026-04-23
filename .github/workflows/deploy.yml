@@ -120,7 +120,7 @@ jobs:
 
             set +e
             mkdir -p /etc/nginx/nginx_configs
-            cp -R -f CI/api.krugozor.space.conf /etc/nginx/nginx_configs
+            cp -R -f CI/api.krugozor.davidishe.pro.conf /etc/nginx/nginx_configs
             if nginx -t; then
               systemctl reload nginx
             else
